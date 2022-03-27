@@ -5,7 +5,7 @@
 Passionate about Software Development.
 Highly focused on self-learning. I love to analyze and solve problems using good development practices. 
 Interested in constantly experimenting with new technologies.
-UI and UX design enthusiast; I like to explore every detail in a user interface and think about the most optimal way to design a flow to be user friendly.
+UI and UX design enthusiast; I like to explore every detail in a user interface and think about the most optimal way to design a flow to be user-friendly.
 </h3>
 
 <hr />
