@@ -2,11 +2,12 @@
 ![Bryan Barrios's Banner](./assets/banner-dark-mode.png#gh-dark-mode-only)
 
 <h3 align="center" style='font-weight: 600'>
-Passionate about Software Development.
-Highly focused on self-taught learning. I love to analyze and solve problems using good development practices. I enjoy learning/devising the most efficient approach to a solution.
-Interested in constantly experimenting with new technologies, especially web technologies.
-UI and UX design enthusiast; I like to explore every detail of a user interface and think about the most optimal way to design a flow to be user-friendly.
+Passionate about Software Development. Focused on learning and building.
 </h3>
+
+I love to analyze and solve problems using good development practices. I enjoy learning/devising the most efficient approach to a solution.
+Interested in constantly experimenting with new technologies, especially web technologies.
+UI/UX design; I like to explore every detail of a user interface and think about the most optimal way to design a flow to be user-friendly.
 
 <hr />
 
