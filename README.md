@@ -28,8 +28,7 @@ Building things with some of my favorite technologies
 		<img src="./assets/graphql.png" alt="Graphql">
 	</a>
 	<a href="https://turbo.build/">
-		<img src="./assets/turborepo-dark.png#gh-dark-mode-only" alt="Turborepo">
-		<img src="./assets/turborepo-light.png#gh-light-mode-only" alt="Turborepo">
+		<img src="./assets/turborepo.png" alt="Turborepo">
 	</a>
 	<a href="https://www.figma.com/">
 		<img src="./assets/figma.png" alt="Figma">
